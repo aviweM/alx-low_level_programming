@@ -20,4 +20,5 @@ int main(void)
 		}
 	}
 	printf("%ld\n", maxF);
+	return (0);
 }
