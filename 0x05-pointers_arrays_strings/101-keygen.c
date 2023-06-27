@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 /**
- * main - Generations random valid passwords for the 
+ * main - Generations random valid passwords for the
  * program 101-crackme.
  * Return: Always 0.
  */
@@ -47,7 +47,7 @@ int  main(void)
 				break;
 			}
 		}
-		
+
 	}
 	printf("%s", password);
 	return (0);
